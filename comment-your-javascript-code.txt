@@ -5,6 +5,5 @@
 /* This is a
 multi-line comment. */
 
-
 ** end of script.js **
 
