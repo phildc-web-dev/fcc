@@ -1,8 +1,4 @@
-** start of script.js **
-
 // This is an in-line comment
 
 /* This is a
 multi-line comment */
-
-** end of script.js **
