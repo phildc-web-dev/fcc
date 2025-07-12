@@ -1,0 +1,10 @@
+** start of script.js **
+
+// Setup
+var a;
+
+// Only change code below this line
+a = 7;
+
+** end of script.js **
+
