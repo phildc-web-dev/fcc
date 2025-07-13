@@ -1,7 +1,2 @@
-** start of script.js **
-
 var myFirstName = "Phil";
 var myLastName = "Pickering";
-
-** end of script.js **
-
