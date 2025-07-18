@@ -1,7 +1,3 @@
-** start of script.js **
-
 let myStr = "This is the first sentence.";
+
 myStr += " This is the second sentence.";
-
-** end of script.js **
-
