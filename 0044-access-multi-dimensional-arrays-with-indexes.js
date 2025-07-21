@@ -1,5 +1,3 @@
-** start of script.js **
-
 const myArray = [
   [1, 2, 3],
   [4, 5, 6],
@@ -8,6 +6,3 @@ const myArray = [
 ];
 
 const myData = myArray[2][1];
-
-** end of script.js **
-
