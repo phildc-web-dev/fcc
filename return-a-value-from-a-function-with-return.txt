@@ -1,8 +1,0 @@
-** start of script.js **
-
-function timesFive(num) {
-  return num * 5;
-}
-
-** end of script.js **
-
