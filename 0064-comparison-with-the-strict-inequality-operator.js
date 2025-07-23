@@ -1,14 +1,8 @@
-** start of script.js **
-
-// Setup
 function testStrictNotEqual(val) {
-  if (val !== 17) { // Change this line
+  if (val !== 17) {
     return "Not Equal";
   }
   return "Equal";
 }
 
 testStrictNotEqual(10);
-
-** end of script.js **
-
