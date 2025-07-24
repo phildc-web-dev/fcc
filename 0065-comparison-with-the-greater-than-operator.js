@@ -1,11 +1,9 @@
-** start of script.js **
-
 function testGreaterThan(val) {
-  if (val > 100) {  // Change this line
+  if (val > 100) {
     return "Over 100";
   }
 
-  if (val > 10) {  // Change this line
+  if (val > 10) {
     return "Over 10";
   }
 
@@ -13,6 +11,3 @@ function testGreaterThan(val) {
 }
 
 testGreaterThan(10);
-
-** end of script.js **
-
