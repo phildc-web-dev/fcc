@@ -1,9 +1,6 @@
-** start of script.js **
-
 const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 
 function golfScore(par, strokes) {
-  // Only change code below this line
   if (strokes === 1) {
     return names[0];
   } else if (strokes <= par - 2) {
@@ -19,10 +16,6 @@ function golfScore(par, strokes) {
   } else {
     return names[6];
   }
-  // Only change code above this line
 }
 
 golfScore(5, 4);
-
-** end of script.js **
-
