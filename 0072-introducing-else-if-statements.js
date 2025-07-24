@@ -1,5 +1,3 @@
-** start of script.js **
-
 function testElseIf(val) {
   if (val > 10) {
     return "Greater than 10";
@@ -11,6 +9,3 @@ function testElseIf(val) {
 }
 
 testElseIf(7);
-
-** end of script.js **
-
