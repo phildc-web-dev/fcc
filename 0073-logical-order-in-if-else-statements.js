@@ -1,5 +1,3 @@
-** start of script.js **
-
 function orderMyLogic(val) {
   if (val < 5) {
     return "Less than 5";
@@ -11,6 +9,3 @@ function orderMyLogic(val) {
 }
 
 orderMyLogic(7);
-
-** end of script.js **
-
