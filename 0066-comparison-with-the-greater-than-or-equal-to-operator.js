@@ -1,11 +1,9 @@
-** start of script.js **
-
 function testGreaterOrEqual(val) {
-  if (val >= 20) {  // Change this line
+  if (val >= 20) {
     return "20 or Over";
   }
 
-  if (val >= 10) {  // Change this line
+  if (val >= 10) {
     return "10 or Over";
   }
 
@@ -13,6 +11,3 @@ function testGreaterOrEqual(val) {
 }
 
 testGreaterOrEqual(10);
-
-** end of script.js **
-
