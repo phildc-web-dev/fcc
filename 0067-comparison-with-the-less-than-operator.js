@@ -1,11 +1,9 @@
-** start of script.js **
-
 function testLessThan(val) {
-  if (val < 25) {  // Change this line
+  if (val < 25) {
     return "Under 25";
   }
 
-  if (val < 55) {  // Change this line
+  if (val < 55) {
     return "Under 55";
   }
 
@@ -13,6 +11,3 @@ function testLessThan(val) {
 }
 
 testLessThan(10);
-
-** end of script.js **
-
