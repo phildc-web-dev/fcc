@@ -1,7 +1,4 @@
-** start of script.js **
-
 function testSize(num) {
-  // Only change code below this line
   if (num < 5) {
     return "Tiny";
   } else if (num < 10) {
@@ -13,10 +10,6 @@ function testSize(num) {
   } else {
     return "Huge";
   }
-  // Only change code above this line
 }
 
 testSize(7);
-
-** end of script.js **
-
