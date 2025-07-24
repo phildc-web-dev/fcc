@@ -1,11 +1,9 @@
-** start of script.js **
-
 function testLessOrEqual(val) {
-  if (val <= 12) {  // Change this line
+  if (val <= 12) {
     return "Smaller Than or Equal to 12";
   }
 
-  if (val <= 24) {  // Change this line
+  if (val <= 24) {
     return "Smaller Than or Equal to 24";
   }
 
@@ -13,6 +11,3 @@ function testLessOrEqual(val) {
 }
 
 testLessOrEqual(10);
-
-** end of script.js **
-
