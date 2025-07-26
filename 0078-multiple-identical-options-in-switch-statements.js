@@ -1,8 +1,6 @@
-** start of script.js **
-
 function sequentialSizes(val) {
   let answer = "";
-  // Only change code below this line
+
   switch (val) {
     case 1:
     case 2:
@@ -20,11 +18,8 @@ function sequentialSizes(val) {
       answer = "High";
       break;
   }
-  // Only change code above this line
+
   return answer;
 }
 
 sequentialSizes(1);
-
-** end of script.js **
-
