@@ -7,21 +7,21 @@ function cc(card) {
     case 4:
     case 5:
     case 6:
-      count++;
+      count ++;
       break;
     case 10:
     case 'J':
     case 'Q':
     case 'K':
     case 'A':
-      count--;
+      count --;
       break;
   }
 
   if (count > 0) {
-    return count + " Bet";
+    return count + " " + "Bet";
   } else {
-    return count + " Hold";
+    return count + " " + "Hold";
   }
 }
 
