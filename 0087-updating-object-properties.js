@@ -1,6 +1,3 @@
-** start of script.js **
-
-// Setup
 const myDog = {
   "name": "Coder",
   "legs": 4,
@@ -8,8 +5,4 @@ const myDog = {
   "friends": ["freeCodeCamp Campers"]
 };
 
-// Only change code below this line
 myDog.name = "Happy Coder";
-
-** end of script.js **
-
