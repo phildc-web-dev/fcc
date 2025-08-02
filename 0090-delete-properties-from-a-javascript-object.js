@@ -1,6 +1,3 @@
-** start of script.js **
-
-// Setup
 const myDog = {
   "name": "Happy Coder",
   "legs": 4,
@@ -9,8 +6,4 @@ const myDog = {
   "bark": "woof"
 };
 
-// Only change code below this line
 delete myDog.tails;
-
-** end of script.js **
-
