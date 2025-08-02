@@ -1,10 +1,5 @@
-** start of script.js **
-
-// Setup
 function phoneticLookup(val) {
   let result = "";
-
-  // Only change code below this line
 
   const lookup = {
     "alpha": "Adams",
@@ -17,11 +12,7 @@ function phoneticLookup(val) {
 
   result = lookup[val];
 
-  // Only change code above this line
   return result;
 }
 
 phoneticLookup("charlie");
-
-** end of script.js **
-
